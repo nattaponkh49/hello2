@@ -1,4 +1,4 @@
 <?php
 
 
-echo "Hello, New world, I am pirate king";
+echo "Now, I am joy boy";
